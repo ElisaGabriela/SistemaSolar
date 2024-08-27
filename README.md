@@ -1,4 +1,4 @@
-# Sistema Solar
+# Sistema Solar 🪐
 **Disciplina:** Computação gráfica 
 
 
