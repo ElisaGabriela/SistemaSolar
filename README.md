@@ -22,7 +22,7 @@
   3.) <b>Generalidades:</b> Poderão ser adicionados recursos adicionais, como luas orbitando planetas, anéis em torno de planetas gasosos, ou informações sobre cada planeta ao serem clicados.
 </p>
 
-```python
+```C
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
@@ -105,7 +105,7 @@ Alterando o código do livro para um sistema com oito planetas, onde cada planet
 
 Atualizações do código
 
-```python
+```C
 #include <GL/glut.h>
 
 // Variáveis para controlar o ângulo de rotação dos planetas
@@ -198,7 +198,7 @@ Observações do professor:
 
 ## Teste 1 - Colocando órbitas
 
-``` Python
+``` C
 #include <GL/glut.h>
 #include <stdbool.h>
 #include <math.h>
@@ -383,7 +383,7 @@ int main(int argc, char *argv[])
 ```
 ### Código com anel de saturno e lua na terra
 Foram implementadas funções para criar luas e anéis nos planetas.
-```Python
+```C
 #include <GL/glut.h>
 #include <stdbool.h>
 #include <math.h>
